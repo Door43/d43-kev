@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kev:home|Door43 (kev)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kev|d43-kev repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kev/archive/master.zip|d43-kev.zip]]
+
+**Recent Changes**
+{{changes>ns = kev}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kev|Ethnologue data]]
+
